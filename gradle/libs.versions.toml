@@ -7,7 +7,6 @@ constraintlayout = "2.2.1"
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-android-library = { id = "com.android.library", version.ref = "agp" }
 
 [libraries]
 androidx-core = { group = "androidx.core", name = "core", version.ref = "core" }
